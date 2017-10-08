@@ -1,1 +1,10 @@
-test\MongoDBAccess.class
+services\interfaces\CustomerItf.class
+database\implementation\DAOfactory.class
+database\BusinessObject.class
+database\implementation\PostgresqlAccess.class
+services\implementation\Bill.class
+services\interfaces\DevisItf.class
+database\interfaces\PostgresqlAccessItf.class
+services\implementation\Customer.class
+services\interfaces\OrderItf.class
+services\implementation\Devis.class
